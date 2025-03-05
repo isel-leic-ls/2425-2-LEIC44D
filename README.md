@@ -1,2 +1,2 @@
 # 2425-2-LEIC44D
-Class Materials and Informations
+Software Laboratory, 2024/2025, Spring semester: Class 44D Materials and Informations
